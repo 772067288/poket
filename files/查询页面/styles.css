@@ -440,3 +440,23 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u34 {
+  border-width:0px;
+  position:absolute;
+  left:90px;
+  top:438px;
+  width:321px;
+  height:62px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u35 {
+  border-width:0px;
+  position:absolute;
+  left:212px;
+  top:540px;
+  width:76px;
+  height:20px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
